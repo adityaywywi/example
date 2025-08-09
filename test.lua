@@ -1,7 +1,8 @@
 --[[  ZYREX Key-System Loader  ]]
 local correctKey = "YoxanXHub_PdRw9TqLvX7KdYsWpT7"                     -- change this at will
 local realScriptUrl =
-"https://raw.githubusercontent.com/ditzzdsgstd-dotcom/Fisch/main/fisch.lua"
+"loadstring(game:HttpGet("https://raw.githubusercontent.com/ditzzdsgstd-dotcom/Fisch/main/fisch.lua"))()"
+
 
 --------------------------------------------------------------------
 -- Services
