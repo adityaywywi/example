@@ -109,4 +109,5 @@ local function showNotification(text, duration)
     end)
 end
 
-_G.scriptURL =loadstring(game:HttpGet("https://raw.githubusercontent.com/YoxanXHub/Fisch/main/fischyoxanx.lua"))()
+_G.scriptURL =loadstring(game:HttpGet("https://raw.githubusercontent.com/ditzzdsgstd-dotcom/Fisch/main/fisch.lua"))()
+
